@@ -1,3 +1,4 @@
+;Write an assembly language program to search an element among a list of 10 numbers
 LXI H,3000H
 MVI A,25H ;SEARCHING ELEMENT
 STA 300AH ;STORE THE SEARCH ELEMENT
