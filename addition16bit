@@ -1,3 +1,4 @@
+;Write an assembly language program for subtractring two 16 bit numbers and display the result
 LDA 3000H
 MOV L,A
 LDA 3001H
